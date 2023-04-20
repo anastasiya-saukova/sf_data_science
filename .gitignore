@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.csv
+Skillfactory_DS_2023/PY-10. Введение в Pandas/educationPY10.ipynb
+Skillfactory_DS_2023/PY-10. Введение в Pandas/final.ipynb
+Skillfactory_DS_2023/PY-11. Базовые приёмы в Pandas/educationPY11.ipynb
+Skillfactory_DS_2023/PY-11. Базовые приёмы в Pandas/finaltask.ipynb
+Skillfactory_DS_2023/PY-12. Продвинутый Pandas/education12.ipynb
+Skillfactory_DS_2023/PY-13. Визуализация в Pandas/educationPY13.ipynb
+Skillfactory_DS_2023/PY-13. Визуализация в Pandas/final_task.ipynb
+Skillfactory_DS_2023/PY-13. Визуализация в Pandas/plotly/scatter_3d.html
+Skillfactory_DS_2023/PY-14. Очистка даных/educationPY14.ipynb
