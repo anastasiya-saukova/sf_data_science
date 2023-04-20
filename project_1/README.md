@@ -5,7 +5,7 @@
 
 [2. Какой кейс решаем](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных и ссылка на них!](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)
 
 [4. Этапы работы над проектом](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)
 
