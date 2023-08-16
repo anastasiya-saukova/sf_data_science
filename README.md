@@ -6,3 +6,4 @@ From the [SkillFactory Data Science course] (http://skillfactory.ru/data-scienti
 * [Проект 0. Игра: Угадай число](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_0)
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_1)
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_2)
+* [Проект 3. Предсказание рейтинга отелей](https://github.com/anastasiya-saukova/sf_data_science/tree/main/project_3)
